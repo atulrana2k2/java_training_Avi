@@ -1,0 +1,52 @@
+<students>
+    <student>
+        <name>John Doe</name>
+        <id>123456</id>
+        <marks>85</marks>
+    </student>
+    <student>
+        <name>Jane Smith</name>
+        <id>789012</id>
+        <marks>92</marks>
+    </student>
+    <student>
+        <name>Alice Johnson</name>
+        <id>456789</id>
+        <marks>78</marks>
+    </student>
+    <student>
+        <name>Michael Brown</name>
+        <id>987654</id>
+        <marks>88</marks>
+    </student>
+    <student>
+        <name>Emily Wilson</name>
+        <id>654321</id>
+        <marks>95</marks>
+    </student>
+    <student>
+        <name>David Garcia</name>
+        <id>135792</id>
+        <marks>80</marks>
+    </student>
+    <student>
+        <name>Sarah Martinez</name>
+        <id>246813</id>
+        <marks>87</marks>
+    </student>
+    <student>
+        <name>Robert Taylor</name>
+        <id>112233</id>
+        <marks>75</marks>
+    </student>
+    <student>
+        <name>Lisa Thomas</name>
+        <id>445566</id>
+        <marks>83</marks>
+    </student>
+    <student>
+        <name>Christopher Clark</name>
+        <id>778899</id>
+        <marks>90</marks>
+    </student>
+</students>
